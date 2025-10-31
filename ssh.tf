@@ -1,5 +1,5 @@
 resource "random_pet" "ssh_key_name" {
-  prefix    = "ssh"
+  prefix    = "nce2-sshkey-main"
   separator = ""
 }
 
